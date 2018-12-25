@@ -27,7 +27,7 @@
     "tslint": "npx tslint -c tslint.json -p tsconfig.json",
     "clean": "rm -rf dist"
   },
-  "version": "0.0.0",
+  "version": "0.1.0",
   "devDependencies": {
     "@types/express": "^4.16.0",
     "tslint": "^5.12.0",
